@@ -34,10 +34,10 @@ test/
 
 ### Prerequisites
 
-- Node.js 18+ (20+ recommended)
+- Node.js 18+ 
 - npm
 
-### Install Dependencies
+### Installing Dependencies
 
 ```bash
 npm install
@@ -128,6 +128,4 @@ npm run test:cov
 - **NotFoundException** for 404 when course not found
 - In-memory storage resets on server restart
 
-## License
 
-UNLICENSED
